@@ -2,11 +2,14 @@
 ## Welcome to my Profile
 ### Web developer
 
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+
 ![Header](https://github.com/Unicodist/Unicodist/raw/main/IMG_20211225_102413.jpg "Header")
 
 - 🔭 I’m currently working on E - Noticeboard app for MMC
 - 🌱 I’m currently learning Android Development
-- 📫 How to reach me: ["Gmail"](mailto://ashishneupane999@gmail.com)
+- 📫 How to reach me: 
+-   [Gmail](mailto://ashishneupane999@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <!--
