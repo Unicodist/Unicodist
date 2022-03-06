@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Header](https://github.com/Unicodist/Unicodist/raw/main/IMG_20211225_102413.jpg "Header")
+![Header](https://github.com/Unicodist/Unicodist/raw/main/IMG_20211225_102413.jpg "Header")
 
 <!--
 **Unicodist/Unicodist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
