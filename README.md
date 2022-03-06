@@ -1,6 +1,5 @@
 # Hi there 👋
 ## Welcome to my Profile
-### Web developer
 
 ![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 
@@ -9,9 +8,10 @@
 - 🔭 I’m currently working on E - Noticeboard app for MMC
 - 🌱 I’m currently learning Android Development
 - 📫 How to reach me: 
--   [Gmail](mailto://ashishneupane999@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  - [Gmail](mailto://ashishneupane999@gmail.com)
+  - [Facebook](https://www.facebook.com/unicodist157)
+  - [Twitter](http://www.twitter.com/ashuranep)
+- ⚡ Fun fact: I don't help people
 <!--
 **Unicodist/Unicodist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
