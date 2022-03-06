@@ -11,7 +11,7 @@
   - [```Gmail```](mailto://ashishneupane999@gmail.com)
   - [```Facebook```](https://www.facebook.com/unicodist157)
   - [```Twitter```](http://www.twitter.com/ashuranep)
-- ⚡ Fun fact: I don't help people
+- ⚡ Fun fact: I love sweets
 <!--
 **Unicodist/Unicodist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
