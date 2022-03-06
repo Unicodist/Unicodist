@@ -1,9 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 ## Welcome to my Profile
-# Web developer
+### Web developer
 
 ![Header](https://github.com/Unicodist/Unicodist/raw/main/IMG_20211225_102413.jpg "Header")
 
+- 🔭 I’m currently working on E - Noticeboard app for MMC
+- 🌱 I’m currently learning Android Development
+- 📫 How to reach me: ["Gmail"](mailto://ashishneupane999@gmail.com)
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 <!--
 **Unicodist/Unicodist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
