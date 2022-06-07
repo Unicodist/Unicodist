@@ -1,22 +1,20 @@
 # 👋 Hi, I’m Ashish Neupane
 
-Independent Software Developer 👨‍💻 | Hungry Learner 📖 | Restless Researcher 📚
+Software Developer 👨‍💻 | Learner 📖 | Not a robot 📚
 <br>
-Co-Founder @ [Bachelor Of Computer Application-TU Student's help page](https://www.facebook.com/BachelorOfComputerApplicationTU) and [BCA (त्रिभुवन  UNIVERSITY) Facebook Group](https://www.facebook.com/groups/bcatunepal)
 
 ## 🤷 About
 
-- DotNet backend dev
+- Web developer
 - Android developer
 - Student
-- Nepalese
+- Nepali
 
 ## 🔥 Technologies
 
 - Dotnet
 - Android studio
-- Flutter
-- Web development
+- Wordpress
 
 ## 🛠️ Tools and Platforms
 Tools and Platforms i am using/have used:
