@@ -13,7 +13,9 @@ Software Developer 👨‍💻 | Learner 📖 | Not a robot 📚
 ## 🔥 Technologies
 
 - Dotnet
-- Android studio
+- Flask
+- Node
+- PHP
 - Wordpress
 
 ## 🛠️ Tools and Platforms
