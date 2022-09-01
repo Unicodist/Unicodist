@@ -15,6 +15,9 @@ Software Developer 👨‍💻 | Learner 📖 | Not a robot 📚
 - Dotnet
 - Flask
 - Node
+- React js
+- Next js
+- Vercel
 - PHP
 - Wordpress
 
