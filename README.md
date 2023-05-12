@@ -41,7 +41,7 @@ Tools and Platforms i am using/have used:
  </a>
  
  <a href="https://github.com/unicodist">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nightmaregaurav&show_icons=true&include_all_commits=true&hide=contribs&count_private=true&line_height=48" alt="Ashish's GitHub Stats" />
+  ![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightmaregaurav&hide=contribs,prs)
  </a>
  
 </p>
