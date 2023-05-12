@@ -41,7 +41,7 @@ Tools and Platforms i am using/have used:
  </a>
  
  <a href="https://github.com/unicodist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unicodist&show_icons=true&langs_count=5&layout=default&hide_border=false&" alt="Ashish's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nightmaregaurav&show_icons=true&include_all_commits=true&hide=contribs&count_private=true&line_height=48" alt="Ashish's GitHub Stats" />
  </a>
  
 </p>
