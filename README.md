@@ -1,5 +1,3 @@
-[![Greet Me](https://greethub.glitch.me/?greet=true)](https://github.com/Unicodist)  
-
 Software Developer 👨‍💻 | Learner 📖 | Not a robot 📚
 <br>
 
@@ -37,11 +35,11 @@ Tools and Platforms i am using/have used:
 <p align="center">
  
  <a href="https://github.com/unicodist">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unicodist&show_icons=true&langs_count=5&layout=pie&theme=dark&hide_border=false&" alt="Ashish's GitHub Stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?locale=np&username=unicodist&show_icons=true&langs_count=5&layout=pie&theme=dark&hide_border=false&" alt="Ashish's GitHub Stats"/>
  </a>
  
  <a href="https://github.com/unicodist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=unicodist&show_icons=true&include_all_commits=true&hide=contribs&count_private=true&line_height=48" alt="Ashish's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?locale=np&username=unicodist&show_icons=true&include_all_commits=true&hide=contribs&theme=dark&count_private=true&line_height=48" alt="Ashish's GitHub Stats" />
  </a>
  
 </p>
