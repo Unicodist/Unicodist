@@ -5,7 +5,6 @@ Software Developer 👨‍💻 | Learner 📖 | Not a robot 📚
 
 - Web developer
 - Android developer
-- Student
 - Nepali
 
 ## 🔥 Technologies
